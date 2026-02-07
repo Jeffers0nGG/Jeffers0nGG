@@ -165,7 +165,7 @@
 
   <!-- Contribution graph "snake" (remote). Works after GitHub Actions is set up. -->
   <img
-    src="https://github.com/Jeffers0nGG/Jeffers0nGG/blob/output/github-contribution-grid-snake-dark.svg"
+    src="[https://github.com/Jeffers0nGG/Jeffers0nGG/blob/output/github-contribution-grid-snake-dark.svg](https://github.com/Jeffers0nGG/Jeffers0nGG/blob/output/github-contribution-grid-snake-dark.svg)"
     alt="snake animation (requires workflow)"
   />
 
