@@ -34,7 +34,6 @@
 <p>
   Computer Science student at Technological Institute of the Philippines (TIP) QC.<br/>
   Intern at DataOne Asia (Phils) Inc.<br/>
-  Focused on clean, practical projects and better workflow with Git and tooling.
 </p>
 
 <br/>
