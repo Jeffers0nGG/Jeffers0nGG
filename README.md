@@ -162,23 +162,3 @@
   </h3>
 
   <br/>
-
-  <!-- Contribution graph "snake" (remote). Works after GitHub Actions is set up. -->
-  <img
-    src="[https://github.com/Jeffers0nGG/Jeffers0nGG/blob/output/github-contribution-grid-snake-dark.svg](https://github.com/Jeffers0nGG/Jeffers0nGG/blob/output/github-contribution-grid-snake-dark.svg)"
-    alt="snake animation (requires workflow)"
-  />
-
-  <p style="margin: 10px 0 0 0; color: rgba(233,233,255,0.55); font-size: 12px;">
-    To enable the snake animation, add the workflow below.
-  </p>
-</div>
-
-<br/>
-
-<!-- Footer -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0b1020,50:2b145a,100:0b1020"
-/>
-
-</div>
