@@ -6,7 +6,7 @@
 
 <a href="https://github.com/Jeffers0nGG">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=600&center=true&vCenter=true&width=760&lines=Intern+%40+DataOne+Asia+(Phils)+Inc.;BS+Computer+Science+student+%40+TIP+QC;Building+projects+with+HTML%2C+CSS%2C+Java%2C+Flutter%2C+Python;Learning+Git%2C+GitHub%2C+and+Databases"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=600&center=true&vCenter=true&width=760&lines=Intern+%40+DataOne+Asia+(Philippines),+Inc.;BS+Computer+Science+student+%40+TIP+QC;Building+projects+with+HTML%2C+CSS%2C+Java%2C+Flutter%2C+Python;Learning+Git%2C+GitHub%2C+and+Databases"
     alt="Typing SVG"
   />
 </a>
